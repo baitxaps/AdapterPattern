@@ -1,6 +1,6 @@
 # AdapterPattern
 适配器模式:Convert the interface of a class into another interface clients expect. Adapter lets
- classes work together that couldn't otherwise because of incompatible interfaces（将一个类的接口变换成客户端所期待的另一种接口，从而是原本因接口不匹配而无法在一起工作的两个类能够在一起工作）\n
+ classes work together that couldn't otherwise because of incompatible interfaces（将一个类的接口变换成客户端所期待的另一种接口，从而是原本因接口不匹配而无法在一起工作的两个类能够在一起工作）
 三个角色
 Target目标角色：该角色定义把其它类转换为何种接口，也就是我们的期望接口
 Adaptee源角色：你想把谁转换成目标角色
